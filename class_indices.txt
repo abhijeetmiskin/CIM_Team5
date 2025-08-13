@@ -1,0 +1,2 @@
+0:damaged_signs
+1:normal_signs
